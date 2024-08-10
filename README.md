@@ -4,7 +4,9 @@ Hello, I am Brandon! I am a data-driven professional with a robust background in
 
 With certifications in data analytics and science from leading institutions like Microsoft, Google, and IBM, and technical proficiency in Python, SQL, R, and Tableau, I am passionate about leveraging data to solve complex problems and deliver actionable insights. I’m currently focused on further expanding my analytical skills in roles that challenge and inspire me.
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+You will be able to further learn about my knowledge/experiences using my CV in [pdf](https://github.com/bcampbell31998/Data-Analyst-Portfolio/blob/main/BCamResume.pdf).
+
+As I actively pursue opportunities in Data Analytics, I created this repository to showcase my technical skills, problem-solving abilities, and passion for data-driven insights. Through the projects and code samples here, I aim to demostrate my proficiency in key tools and technologies like Python, SQL, and Tableau, as well as my ability to tackle real world data challenges.
 
 ## Table of Contents
 - [About](https://github.com/bcampbell31998/Data-Analyst-Portfolio/blob/main/README.md)

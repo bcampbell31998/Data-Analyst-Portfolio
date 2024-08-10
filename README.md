@@ -7,4 +7,4 @@ With certifications in data analytics and science from leading institutions like
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
+[- - [About](https://github.com/bcampbell31998/Data-Analyst-Portfolio/blob/main/README.md)]

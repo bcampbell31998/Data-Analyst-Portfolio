@@ -18,4 +18,5 @@ As I actively pursue opportunities in Data Analytics, I created this repository 
 Various data analytics projects that I have worked on briefly showing my capabilities.
 ### User Wager Analysis
 **Code:** [`User Wager Analysis`](https://github.com/bcampbell31998/PortfolioProjects/blob/main/FanDuel%20Take%20Home%20Test%20-%20Jupyter%20Notebook.pdf)
+
 **Goal:** Provide actionable insights from the data to improve user engagement, optmize promotional strategies, and maximize revenue for the company. 

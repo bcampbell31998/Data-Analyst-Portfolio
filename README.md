@@ -20,3 +20,7 @@ Various data analytics projects that I have worked on briefly showing my capabil
 **Code:** [`User Wager Analysis`](https://github.com/bcampbell31998/PortfolioProjects/blob/main/FanDuel%20Take%20Home%20Test%20-%20Jupyter%20Notebook.pdf)
 
 **Goal:** Provide actionable insights from the data to improve user engagement, optmize promotional strategies, and maximize revenue for the company. 
+
+**Skills:** Data Wrangling and Cleaning, Data Exploration and Visualization, Statistical Analysts. Business Analytics and Insights, Python Programming, Critical Thinking and Problem Solving, and Communication.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib & Seaborn, and Scikit-Learn.

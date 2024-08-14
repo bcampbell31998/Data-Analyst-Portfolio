@@ -10,3 +10,6 @@ As I actively pursue opportunities in Data Analytics, I created this repository 
 
 ## Table of Contents
 - [About](https://github.com/bcampbell31998/Data-Analyst-Portfolio/blob/main/README.md)
+- [Portfolio Projects](https://github.com/bcampbell31998/PortfolioProjects/tree/main)
+  - Python
+    - [User Wagers Analysis](https://github.com/bcampbell31998/PortfolioProjects/blob/main/FanDuel%20Take%20Home%20Test%20-%20Jupyter%20Notebook.pdf)

@@ -13,6 +13,10 @@ As I actively pursue opportunities in Data Analytics, I created this repository 
 - [Portfolio Projects](https://github.com/bcampbell31998/PortfolioProjects/tree/main)
   - Python
     - [User Wager Analysis](https://github.com/bcampbell31998/PortfolioProjects/blob/main/FanDuel%20Take%20Home%20Test%20-%20Jupyter%20Notebook.pdf)
+  - SQL
+    - [AML-SQL-Project](https://github.com/bcampbell31998/AML-SQL-Project)
+  - DevOps
+    - [DevOps](https://github.com/bcampbell31998/brandon-devops-projects)
 
 ## Portfolio Projects
 Various data analytics projects that I have worked on briefly showing my capabilities.
@@ -24,3 +28,21 @@ Various data analytics projects that I have worked on briefly showing my capabil
 **Skills:** Data Wrangling and Cleaning, Data Exploration and Visualization, Statistical Analysts. Business Analytics and Insights, Python Programming, Critical Thinking and Problem Solving, and Communication.
 
 **Technologies:** Python, Pandas, NumPy, Matplotlib & Seaborn, and Scikit-Learn.
+
+### AML
+**Code:** [`AML-SQL-Project`](https://github.com/bcampbell31998/AML-SQL-Project)
+
+**Goal:** Detect suspicious transactions using SQL. 
+
+**Skills:** Creating/Managing schemas, Using window fuctions like LAG() for behavior pattern detection, Applying CTEs for modular readable query building. Data Analysis, Data Modeling, Fraud & Compliance Techiniques. Business/Domain Skills, and Reporting & Insights.
+
+**Technologies:** SQL, Relational Database Concepts, SQL Engines.
+
+### DevOps
+**Code:** [`DevOps`](https://github.com/bcampbell31998/brandon-devops-projects)
+
+**Goal:** Demonstrate ability to automate the build, test, and deployment lifecycles of a simpel application using modern DevOps practices without relying on manual processes. 
+
+**Skills:** GitHub Actions (CI/CD Pipelines), Python Scripting, Git & Version Control, YAML Configuration, Automation & Deployment Concepts, and Environment Setup.
+
+**Technologies:** GitHub Actions, Python, Flask  YAML, Git.
